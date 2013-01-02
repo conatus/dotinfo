@@ -4,3 +4,4 @@ exclude:
 - readme.md
 - Capfile
 - config
+- scss
