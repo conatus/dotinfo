@@ -28,5 +28,12 @@ namespace :jekyll do
 	end
 end
 
-after 'deploy:update_code', 'jekyll:generate_site'
+namespace :sass do
+	desc "Convert SASS to CSS"
+	task :convert_sass do
+		run "cd #{latest_release} && sass --update scss:css --style compressed"
+	end
+end
+
+after 'deploy:update_code', 'jekyll:generate_site', 'sass:convert_sass'
 after 'deploy:update', 'deploy:link_served_directory'
