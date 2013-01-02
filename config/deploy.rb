@@ -17,7 +17,8 @@ set :deploy_to, "/home/#{user}/app/#{application}"
 namespace :deploy do
 	desc "Link to serving directory"
 	task :link_served_directory do
-		run "ln -s #{latest_release}/_site /home/#{user}/#{application}"
+		run "rm -rf /home/#{user}/#{application}/"
+		run "ln -s #{latest_release}/_site/ /home/#{user}/#{application}"
 	end
 end
 
