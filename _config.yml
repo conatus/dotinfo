@@ -2,3 +2,5 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - readme.md
+- Capfile
+- config
