@@ -1,1 +1,1 @@
-This is the current version of my [Jekyll](https://github.com/mojombo/jekyll) powered website found at [alexandrews.info](alexandrews.info).
+This is the current version of my [Jekyll](https://github.com/mojombo/jekyll) powered website found at [alexandrews.info](http://alexandrews.info).
