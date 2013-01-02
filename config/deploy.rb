@@ -35,5 +35,5 @@ namespace :sass do
 	end
 end
 
-after 'deploy:update_code', 'jekyll:generate_site', 'sass:convert_sass'
+after 'deploy:update_code', 'sass:convert_sass', 'jekyll:generate_site'
 after 'deploy:update', 'deploy:link_served_directory'
