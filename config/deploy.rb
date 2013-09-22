@@ -28,14 +28,14 @@ end
 namespace :jekyll do
 	desc "Generate site on remote server"
 	task :generate_site do
-		run "cd #{latest_release} && jekyll"
+		run "cd #{latest_release} && bundle exec jekyll build"
 	end
 end
 
 namespace :sass do
 	desc "Convert SASS to CSS"
 	task :convert_sass do
-		run "cd #{latest_release} && sass --update scss:css --style compressed"
+		run "cd #{latest_release} && bundle exec 'sass --update scss:css --style compressed'"
 	end
 end
 
