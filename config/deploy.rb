@@ -1,3 +1,5 @@
+require 'bundler/capistrano'
+
 set :application, "alexandrews.info"
 set :repository,  "https://github.com/conatus/dotinfo.git"
 set :scm, :git
