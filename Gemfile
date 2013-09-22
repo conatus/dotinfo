@@ -1,6 +1,9 @@
 source :rubygems
 
-gem 'capistrano'
-gem 'railsless-deploy'
 gem 'jekyll'
 gem 'sass'
+
+group :development do
+	gem 'capistrano'
+	gem 'railsless-deploy'
+end
