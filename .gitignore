@@ -3,3 +3,4 @@ _site
 .bundle
 .sass-cache
 css/main.css
+vendor/
