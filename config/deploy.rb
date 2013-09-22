@@ -13,6 +13,7 @@ role :web, host
 set :user, ENV['USER']
 
 ssh_options[:forward_agent] = true
+ssh_options[:port] = 2222
 
 set :deploy_to, "/home/#{user}/app/#{application}"
 
