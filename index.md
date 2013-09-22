@@ -28,7 +28,7 @@ A series of talks, texts and online contributions from artists, activists, techn
 ## Forthcoming Talks
 
 "An Introduction to RoboCop"  
-Invited introduction to the politics of *RoboCop* at Limazulu, London, [September 27th 2013](http://www.limazulu.co.uk/).  
+Invited introduction to the politics of *RoboCop* at Limazulu, London, [September 27th 2013](http://www.limazulu.co.uk/).   
 As part of *All Talk All Action: The spectacle and ideology of action* cinema series.
 
 ## Recent Talks
