@@ -40,7 +40,7 @@ Introduced and facilitated discussion with Alex Vasudevan, Georgina Voss and Ale
 As part of [Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org), [20th April 2013](http://iliw13.autoitaliasoutheast.org/schedule/week-one/)
 
 "Big Data, Social Networks, Data Selves"  
-Organised and facilitated session that asked what it means to be intensively connected; attached at every waking moment, blurring the boundaries of self-performance, work and leisure? How do the micro-banalities of every day life – from the daily commute to work, to the walk in the park – play out on a vast aggregate macro level of Big Data? What is it to have a self on a social network, a data self?  
+Organised and facilitated session with Jay Owen and Ed Manley that asked what it means to be intensively connected. What it does it mean for lives to be attached at every waking moment, blurring the boundaries of self-performance, work and leisure? How do the micro-banalities of every day life – from the daily commute to work, to the walk in the park – play out on a vast aggregate macro level of Big Data? What is it to have a self on a social network, a data self?  
 As part of [Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org), [20th April 2013](http://iliw13.autoitaliasoutheast.org/schedule/week-one/), 12th May 2013
 
 “The Memes of Production: The Political Economy of the Internet”  
