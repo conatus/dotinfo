@@ -47,4 +47,7 @@ As part of [Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.o
 Invited talk for The Left Society, University of Nottingham, April 30th 2012.
 
 “Open Source, Free Association and Housework or The Political Economy of Cute Animal Pictures”  
-As part of the LuckyPDF School of Global Art, Fierce Festival, Birmingham, [April 1st 2012](http://www.wearefierce.org/fierce-festival/whats-on/lucky-pdf)
+As part of the LuckyPDF School of Global Art, Fierce Festival, Birmingham, [April 1st 2012](http://www.wearefierce.org/fierce-festival/whats-on/lucky-pdf).
+
+"Economics Noir: Friedrich Hayek, Cold War Cybernetics and Invisible Neoliberalism"  
+As part of the Accelerationism conference, Goldsmiths, University of London, 14th September 2010.
