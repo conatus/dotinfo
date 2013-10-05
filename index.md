@@ -25,7 +25,8 @@ A Creative Commons record label.
 ## Past Projects
 
 [Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org)  
-A series of talks, texts and online contributions from artists, activists, technologists and writers examining how digital technology is changing our political and productive selves: from the way we work and play, to the way we make art and even our health.   
+A series of talks, texts and online contributions from artists, activists, technologists and writers examining how digital technology is changing our political and productive selves: from the way we work and play, to the way we make art and even our health. 
+  
 In collaboration with [Auto Italia South East](http://autoitaliasoutheast.org) and Huw Lemmey. From 20th April – 12th May 2013.
 
 ## Recent Talks
