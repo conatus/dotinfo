@@ -35,13 +35,13 @@ In collaboration with [Auto Italia South East](http://autoitaliasoutheast.org) a
 Invited introduction to the politics of *RoboCop* at Limazulu, London, [September 27th 2013](http://www.limazulu.co.uk/).   
 As part of *All Talk All Action: The spectacle and ideology of action* cinema series.
 
+"Big Data, Social Networks, Data Selves"  
+Organised and facilitated session with Jay Owen and Ed Manley that asked what it means to be intensively connected. What it does it mean for lives to be attached at every waking moment, blurring the boundaries of self-performance, work and leisure? How do the micro-banalities of every day life – from the daily commute to work, to the walk in the park – play out on a vast aggregate macro level of Big Data? What is it to have a self on a social network, a data self?  
+As part of [Immaterial Labour Isn't Working], [12th May 2013](http://iliw13.autoitaliasoutheast.org/schedule/).
+
 "Open Access Publishing"  
 Introduced and facilitated discussion with Alex Vasudevan, Georgina Voss and Alex Hern on contemporary trends in culture and intellectual property. How are developing technologies effecting the copyright regime, and how are difficulties in enforcing copyright leading to innovations in music, academia and computer games?  
 As part of [Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org), [20th April 2013](http://iliw13.autoitaliasoutheast.org/schedule/week-one/)
-
-"Big Data, Social Networks, Data Selves"  
-Organised and facilitated session with Jay Owen and Ed Manley that asked what it means to be intensively connected. What it does it mean for lives to be attached at every waking moment, blurring the boundaries of self-performance, work and leisure? How do the micro-banalities of every day life – from the daily commute to work, to the walk in the park – play out on a vast aggregate macro level of Big Data? What is it to have a self on a social network, a data self?  
-As part of [Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org), [20th April 2013](http://iliw13.autoitaliasoutheast.org/schedule/week-one/), [12th May 2013](http://iliw13.autoitaliasoutheast.org/schedule/).
 
 “The Memes of Production: The Political Economy of the Internet”  
 Invited talk for The Left Society, University of Nottingham, April 30th 2012.
