@@ -22,16 +22,16 @@ I’m Alex Andrews. I am a writer, web developer and academic.
 [Records On Ribs](http://recordsonribs.com)  
 A Creative Commons record label.
 
-[Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org)  
-A series of talks, texts and online contributions from artists, activists, technologists and writers examining how digital technology is changing our political and productive selves: from the way we work and play, to the way we make art and even our health. In collaboration with [Auto Italia South East](http://autoitaliasoutheast.org) and Huw Lemmey.
+## Past Projects
 
-## Forthcoming Talks
+[Immaterial Labour Isn't Working](http://iliw13.autoitaliasoutheast.org)  
+A series of talks, texts and online contributions from artists, activists, technologists and writers examining how digital technology is changing our political and productive selves: from the way we work and play, to the way we make art and even our health. In collaboration with [Auto Italia South East](http://autoitaliasoutheast.org) and Huw Lemmey. From 20th April – 12th May 2013.
+
+## Recent Talks
 
 "An Introduction to RoboCop"  
 Invited introduction to the politics of *RoboCop* at Limazulu, London, [September 27th 2013](http://www.limazulu.co.uk/).   
 As part of *All Talk All Action: The spectacle and ideology of action* cinema series.
-
-## Recent Talks
 
 “The Memes of Production: The Political Economy of the Internet”  
 Invited talk for The Left Society, University of Nottingham, April 30th 2012.
