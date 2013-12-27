@@ -4,6 +4,6 @@ gem 'jekyll'
 gem 'sass'
 
 group :development do
-	gem 'capistrano'
+	gem 'capistrano', '2.15.5'
 	gem 'railsless-deploy'
 end
