@@ -29,6 +29,12 @@ A series of talks, texts and online contributions from artists, activists, techn
 
 In collaboration with [Auto Italia South East](http://autoitaliasoutheast.org) and Huw Lemmey. From 20th April to 12th May 2013.
 
+GoldZone®  
+
+Custom application for production of the the Goldsmiths class of 2013 catalogue.
+
+In collaboration with Michael Oswell and David Rudnick. 
+
 ## Recent Talks
 
 "An Introduction to RoboCop"  
