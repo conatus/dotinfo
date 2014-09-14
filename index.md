@@ -10,6 +10,8 @@ I’m Alex Andrews. I am a writer, web developer and academic.
 
 ## Selected Academic Work
 
+"[Siding With The Machines](http://review31.co.uk/article/view/269/siding-with-the-machines): Review of Robin Mackay & Armen Avanessian (eds.), *#Accelerate: The Accelerationist Reader*" *review 31* (2014)
+
 “Perspectives on the Global Financial Crisis: Review of *The Spectre at The Feast: Capitalist Crisis and the Politics of Recession* by Andrew Gamble, *The Great Credit Crash* by Martijn Konings (ed.) and *Crisis in the Global Economy: Financial Markets, Social Struggles, and New Political Scenarios* by Andrea Fumagalli and Sandro Mezzadra (eds.)” *Journal of Critical Globalisation Studies*&nbsp;5 (2012): 167-171.&nbsp;([download](http://www.criticalglobalisation.com/issue5/167_171_GLOBAL_CRISIS_JCGS5.pdf))
 
 ## Selected Journalism
