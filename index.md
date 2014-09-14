@@ -35,7 +35,7 @@ GoldZone®
 
 Custom application for production of the the Goldsmiths class of 2013 catalogue.
 
-In collaboration with Michael Oswell and David Rudnick. 
+In collaboration with Michael Oswell and [David Rudnick](http://davidrudnick.org/). 
 
 ## Recent Talks
 
