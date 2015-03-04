@@ -37,7 +37,7 @@ Custom application for production of the the Goldsmiths class of 2013 catalogue.
 
 In collaboration with Michael Oswell and [David Rudnick](http://davidrudnick.org/). 
 
-## Recent Talks
+## Talks
 
 "An Introduction to RoboCop"  
 Invited introduction to the politics of *RoboCop* at Limazulu, London, [September 27th 2013](http://www.limazulu.co.uk/).   
