@@ -31,7 +31,7 @@ A series of talks, texts and online contributions from artists, activists, techn
 
 In collaboration with [Auto Italia South East](http://autoitaliasoutheast.org) and Huw Lemmey. From 20th April to 12th May 2013.
 
-GoldZone®  
+[GoldZone®](https://www.facebook.com/GoldZoneGruppe)
 
 Custom application for production of the the Goldsmiths class of 2013 catalogue.
 
